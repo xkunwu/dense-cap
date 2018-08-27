@@ -13,4 +13,3 @@ output/*
 *.aux
 *.synctex.gz
 *.bak
-Detectron/
